@@ -1,0 +1,41 @@
+
+  
+
+  [
+    {"statecode": 0, "state": "All States"
+    },
+    {"statecode": 1, "state": "Johor"
+    },
+    {"statecode": 2, "state": "Kedah"
+    },
+    {"statecode": 3, "state": "Kelantan"
+    },
+    {"statecode": 4, "state": "Melaka"
+    },
+    {"statecode": 5, "state": "Negeri Sembilan"
+    },
+    {"statecode": 6, "state": "Pahang"
+    },
+    {"statecode": 7, "state": "Pulau Pinang"
+    },
+    {"statecode": 8, "state": "Perak"
+    },
+    {"statecode": 9, "state": "Perlis"
+    },
+    {"statecode": 10, "state": "Selangor"
+    },
+    {"statecode": 11, "state": "Terengganu"
+    },
+    {"statecode": 12, "state": "Sabah"
+    },
+    {"statecode": 13, "state": "Sarawak"
+    },
+    {"statecode": 14, "state": "Wilayah Persekutuan Kuala Lumpur"
+    },
+    {"statecode": 15, "state": "Wilayah Persekutuan Labuan"
+    },
+    {"statecode": 16, "state": "Wilayah Persekutuan Putrajaya"
+    },
+    {"statecode": 17, "state": "Not Applicable"
+    }
+]
